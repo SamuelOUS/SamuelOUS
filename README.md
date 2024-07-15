@@ -15,7 +15,7 @@
 
 <p align="center">
   
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,cs,discord,bots,discordjs,electron,figma,flask,git,github,gmail,js,py,pycharm,react,ruby,vscode,visualstudio,stackoverflow,nodejs,nextjs,mysql,java,htmx,atom,npm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,powershell,cs,discord,bots,discordjs,electron,figma,flask,git,github,gmail,js,py,pycharm,react,ruby,vscode,visualstudio,stackoverflow,nodejs,nextjs,mysql,java,htmx,atom,npm)](https://skillicons.dev)
 </p>
 </div>
 
