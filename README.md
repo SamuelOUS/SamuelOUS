@@ -14,9 +14,7 @@
 <br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,,css,discord,figma,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,py,react,tailwind,vscode" />
-  </a>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 </div>
 
