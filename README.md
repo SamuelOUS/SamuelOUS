@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <h3 align="center">A passionate Systems engineer and developer from Colombia</h3>
@@ -17,7 +17,7 @@
 <br>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2 align= "center" padding: 20px>Technologies That I Know<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
+<h2 align= "center" padding: 20px>Technologies That I Know<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></a></h2>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 <br>
