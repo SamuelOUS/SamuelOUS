@@ -31,7 +31,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>My links :)</h2>
+<h2 align="center">My links :)</h2>
+<div align="center">
+  <a  align="center "href="https://www.instagram.com/samuel_ou1/">
+    <img src="https://skillicons.dev/icons?i=instagram&perline=2" />
+  </a>
+    <a  align="center "href="https://www.linkedin.com/in/samuel-osorio-uribe/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=2" />
+  </a>
+</div>
+
 
 
 
