@@ -41,7 +41,7 @@
   </a>
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="samuel-osorio-uribe" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/samuel-osorio-uribe/es?trk=profile-badge">Samuel Osorio Uribe</a></div>
+
               
 
 
