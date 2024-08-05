@@ -9,8 +9,7 @@
  🌱 I’m currently learning Python, Electron and React
   
 
- 👯 I’m looking to collaborate on front-end and back-end projects
-  
+
 
  ⚡ What I like to do: I like so much coding, gaming and reading :)
  
